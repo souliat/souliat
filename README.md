@@ -1,3 +1,4 @@
+백엔드 개발자로의 항해를 시작했습니다!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souliat&show_icons=true&theme=gruvbox)
 
 <!--
