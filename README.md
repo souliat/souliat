@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-HJ1986&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souliat&show_icons=true&theme=gruvbox)
 
 <!--
 **souliat/souliat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
